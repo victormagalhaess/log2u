@@ -1,4 +1,5 @@
 # Log2u
+[![GoDoc](https://godoc.org/github.com/victormagalhaess/log2u?status.svg)](http://godoc.org/github.com/victormagalhaess/log2u)
 <p align="center">
   <img src="https://github.com/victormagalhaess/log2u/blob/main/public/log2u.png?raw=true" width="200" alt="Log2u Logo">
 </p>
